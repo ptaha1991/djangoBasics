@@ -1,0 +1,7 @@
+4. Выберите три рабочих URL на любых ресурсах, которые содержат:
+4.1 URL-путь с двумя или тремя вложениями;
+https://bigenc.ru/section/music
+4.2 несколько GET-параметров;
+https://www.toramp.com/ru/explore/shows/?lang=en&genre=3&tag=28&min_score=51
+4.3 идентификатор якоря
+http://woocommerce.github.io/woocommerce-rest-api-docs/?python#index
